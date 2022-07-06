@@ -2,7 +2,7 @@
 
 OpenMMLab主页：https://openmmlab.com/
 
-MMPose主页：[https://github.com/open-mmlab/mmtracking](https://github.com/open-mmlab/mmpose)
+MMPose主页：[https://github.com/open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)
 
 视频讲解：同济子豪兄 https://space.bilibili.com/1900783
 
