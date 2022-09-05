@@ -1,8 +1,8 @@
 # MMPose教程
 
-OpenMMLab主页：https://openmmlab.com/
+OpenMMLab 主页：https://openmmlab.com/
 
-MMPose主页：[https://github.com/open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)
+MMDeploy主页：https://github.com/open-mmlab/mmdeploy
 
 视频讲解：同济子豪兄 https://space.bilibili.com/1900783
 
